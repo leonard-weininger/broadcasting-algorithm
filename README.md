@@ -225,7 +225,7 @@ ctest
 
 ## Benchmark
 
-To run a benchmark of the algorithm on a randomly generated graph without saving any intermediate files, use:
+To run a benchmark of the algorithm on a randomly generated graph and print runtime statistics without saving any intermediate files, use:
 
 ```bash
 ./benchmark/benchmark.sh <n> <k> [seed]
@@ -249,9 +249,9 @@ The following tables show execution times of the algorithm (excluding graph gene
 
 #### Varying `k` with fixed `n = 10⁵`
 
-| `k`      | 1    | 2    | 3    | 4    | 5    | 6     | 7      | 8         |
-| -------- | ---- | ---- | ---- | ---- | ---- | ----- | ------ | --------- |
-| Time (s) | 0.05 | 0.10 | 0.15 | 0.18 | 0.56 | 10.94 | 661.87 | 105041.80 |
+| `k`      | 0    | 1    | 2    | 3    | 4    | 5    | 6     | 7      | 8         |
+| -------- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ------ | --------- |
+| Time (s) | 0.01 | 0.05 | 0.10 | 0.15 | 0.18 | 0.56 | 10.94 | 661.87 | 105041.80 |
 
 ---
 
