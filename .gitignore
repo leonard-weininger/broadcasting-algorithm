@@ -1,0 +1,9 @@
+# Ignore build directory
+/build/
+
+# Ignore everything in the data folder
+/data/*
+
+# Except these two files
+!/data/example_graph.txt
+!/data/example_protocol.txt
