@@ -3,14 +3,14 @@
 #SBATCH --output=output/small_example_%j.txt
 #
 #SBATCH --cpus-per-task=1
-#SBATCH --time=00:30:00
+#SBATCH --time=00:15:00
 #SBATCH --partition=c23ms
 #SBATCH --mem-per-cpu=2000
 #
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=you@example.com
 
-#!/bin/bash
+mkdir -p output
 
 # Hardcoded list of seeds
 seeds=(

@@ -10,7 +10,7 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=you@example.com
 
-#!/bin/bash
+mkdir -p output
 
 # Hardcoded list of seeds
 seeds=(

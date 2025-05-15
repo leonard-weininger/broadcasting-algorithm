@@ -17,7 +17,7 @@ seed="$3"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 # Create a temp file for the graph output
-graph_file=$(mktemp "$SCRIPT_DIR/tmp/graph.XXXXXX.txt")
+graph_file=$(mktemp "/tmp/graph.XXXXXX.txt")
 
 # Clean up temp file on exit
 trap "rm -f '$graph_file'" EXIT

@@ -10,6 +10,6 @@
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=you@example.com
 
-#!/bin/bash
+mkdir -p output
 
 ../benchmark.sh 100000 8 790193923752136
