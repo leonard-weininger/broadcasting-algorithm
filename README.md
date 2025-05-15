@@ -239,7 +239,7 @@ To run a benchmark of the algorithm on a randomly generated graph without saving
 
 ### Results
 
-The following tables show execution times of the algorithm (excluding graph generation, file I/O, and protocol validation). All times are in seconds.
+The following tables show execution times of the algorithm (excluding graph generation, file I/O, and protocol validation). All times are in seconds and represent averages over 10 runs on random graphs with the given parameters.
 
 #### Varying `n` with fixed `k = 5`
 
