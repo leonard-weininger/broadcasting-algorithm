@@ -126,7 +126,6 @@ The computed protocol will satisfy the following constraints:
 </tr>
 <tr>
 <td>
-
 ```
 9 10 0
 0 1
@@ -140,10 +139,8 @@ The computed protocol will satisfy the following constraints:
 5 7
 7 8
 ```
-
 </td>
 <td>
-
 ```
 4
 1
@@ -159,7 +156,6 @@ The computed protocol will satisfy the following constraints:
 8 4
 7 5
 ```
-
 </td>
 </tr>
 </table>
