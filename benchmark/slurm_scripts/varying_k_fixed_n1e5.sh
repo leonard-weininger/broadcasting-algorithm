@@ -1,9 +1,9 @@
 #!/usr/local_rwth/bin/zsh
-#SBATCH --job-name=fixed_n1e5
-#SBATCH --output=output/fixed_n1e5_%j.txt
+#SBATCH --job-name=varying_k_fixed_n1e5
+#SBATCH --output=output/varying_k_fixed_n1e5_%j.txt
 #
 #SBATCH --cpus-per-task=1
-#SBATCH --time=12:30:00
+#SBATCH --time=50:00:00
 #SBATCH --partition=c23ms
 #SBATCH --mem-per-cpu=2000
 #
@@ -41,7 +41,8 @@ seeds=(
 
 seed_index=1
 
-for k in {0..7}; do
+# for case k = 5 we can use the results from the other script
+for k in 1 2 3 4 6 7 8; do
   for cas in {1..10}; do
     current_seed=${seeds[$seed_index]}
     ../benchmark.sh 100000 "$k" "$current_seed"
