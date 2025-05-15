@@ -181,7 +181,7 @@ Here is a visualization of this example graph and protocol:
 ### Optional Flags
 
 - `--verbose` - print detailed runtime statistics to `std::cerr`
-- `--only-rounds` - only print the number of rounds `r`, no protocol
+- `--no-output` - the computed protocol is not printed
 
 ---
 
