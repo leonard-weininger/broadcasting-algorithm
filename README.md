@@ -237,19 +237,19 @@ To run a benchmark of the algorithm on a randomly generated graph without saving
 - `k` - cyclomatic number (`0 ≤ k ≤ n(n - 1)/2 - n + 1`)
 - `seed` - optional integer seed (by default a random seed is used)
 
-> **Note:** This script is supported only on **Linux** and **macOS**.
+> **Note:** This benchmark script is supported only on **Linux** and **macOS**.
 
 ### Results
 
 The following tables show execution times of the algorithm (excluding graph generation, file I/O, and protocol validation). All times are in seconds.
 
-Varying `n` with fixed `k = 5`:
+#### Varying `n` with fixed `k = 5`
 
 | `n`      | 10¹  | 10²  | 10³  | 10⁴  | 10⁵   | 10⁶   | 10⁷   | 10⁸    |
 | -------- | ---- | ---- | ---- | ---- | ----- | ----- | ----- | ------ |
 | Time (s) | 0.00 | 0.00 | 1.10 | 6.85 | 20.79 | 26.67 | 44.53 | 448.50 |
 
-Varying `k` with fixed `n = 10⁵`:
+#### Varying `k` with fixed `n = 10⁵`
 
 | `k`      | 1    | 2    | 3    | 4    | 5    | 6     | 7      | 8         |
 | -------- | ---- | ---- | ---- | ---- | ---- | ----- | ------ | --------- |
