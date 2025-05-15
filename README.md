@@ -179,7 +179,7 @@ Here is a visualization of this example graph and protocol:
 
 ### Optional Flags
 
-- `--verbose` - print detailed runtime statistics to `std::cerr`
+- `--verbose` - print runtime statistics to `std::cerr`
 - `--no-output` - the computed protocol is not printed
 
 ---
@@ -201,7 +201,7 @@ build\generate.exe <n> <k> [seed] [--verbose]
 - `n` - number of vertices (`n ≥ 1`)
 - `k` - cyclomatic number (`0 ≤ k ≤ n(n - 1)/2 - n + 1`)
 - `seed` - optional integer seed (by default a random seed is used)
-- `--verbose` - print detailed runtime statistics to `std::cerr`
+- `--verbose` - print runtime statistics to `std::cerr`
 
 ---
 
