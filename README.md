@@ -203,7 +203,7 @@ build\generate.exe <n> <k> [seed] [--verbose]
 - `n` - number of vertices (`n ≥ 1`)
 - `k` - cyclomatic number (`0 ≤ k ≤ n(n - 1)/2 - n + 1`)
 - `seed` - optional integer seed (by default a random seed is used)
-- `--verbose` - optional flag for verbose output
+- `--verbose` - print detailed runtime statistics to `std::cerr`
 
 ---
 
