@@ -42,7 +42,7 @@ seeds=(
 seed_index=1
 
 # for case k = 5 we can use the results from the other script
-for k in 1 2 3 4 6 7 8; do
+for k in 0 1 2 3 4 6 7 8; do
   for cas in {1..10}; do
     current_seed=${seeds[$seed_index]}
     ../benchmark.sh 100000 "$k" "$current_seed"
