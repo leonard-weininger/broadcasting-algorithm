@@ -139,8 +139,6 @@ The computed protocol will satisfy the following constraints:
 5 6
 5 7
 7 8
-
-
 ```
 
 </td>
