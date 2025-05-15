@@ -1,9 +1,9 @@
 #!/usr/local_rwth/bin/zsh
-#SBATCH --job-name=varying_n_fixed_k5
-#SBATCH --output=output/varying_n_fixed_k5_%j.txt
+#SBATCH --job-name=fixed_k5
+#SBATCH --output=output/fixed_k5_%j.txt
 #
 #SBATCH --cpus-per-task=1
-#SBATCH --time=14:30:00
+#SBATCH --time=12:30:00
 #SBATCH --partition=c23ml
 #SBATCH --mem-per-cpu=32000
 #
