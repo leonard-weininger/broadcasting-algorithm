@@ -64,7 +64,7 @@ int main(int argc, char* argv[]) {
     if (verbose) {
         double validateAndPrintTime = validateAndPrintTimer.elapsed();
         printEmptyLine();
-		std::string str = std::string("Validate ") + (!noOutput ? "and print " : "") + "protocol time";
+        std::string str = std::string("Validate ") + (!noOutput ? "and print " : "") + "protocol time";
         printInfo(str, validateAndPrintTime);
     }
 
