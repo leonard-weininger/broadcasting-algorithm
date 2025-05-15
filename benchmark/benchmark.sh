@@ -24,9 +24,9 @@ trap "rm -f '$graph_file'" EXIT
 
 # Run generate with or without seed
 if [ -n "$seed" ]; then
-	"$SCRIPT_DIR/../build/generate" "$n" "$k" "$seed" --verbose 2>&1 > "$graph_file"
+    "$SCRIPT_DIR/../build/generate" "$n" "$k" "$seed" --verbose 2>&1 > "$graph_file"
 else
-	"$SCRIPT_DIR/../build/generate" "$n" "$k" --verbose 2>&1 > "$graph_file"
+    "$SCRIPT_DIR/../build/generate" "$n" "$k" --verbose 2>&1 > "$graph_file"
 fi
 echo -e "[INFO]"
 

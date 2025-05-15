@@ -30,8 +30,8 @@ for n in 10 100 1000 10000; do
   for k in {2..4}; do
     current_seed=${seeds[$seed_index]}
     ../benchmark.sh "$n" "$k" "$current_seed"
-	echo
-	seed_index=$(( seed_index + 1 ))
+    echo
+    seed_index=$(( seed_index + 1 ))
   done
 done
 

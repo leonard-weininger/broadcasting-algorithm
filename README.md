@@ -16,6 +16,7 @@ A C++ implementation of an algorithm for solving the telephone broadcasting prob
 4. [Generating Random Graphs](#generating-random-graphs)
 5. [Running Tests](#running-tests)
 6. [Benchmark](#benchmark)
+   - [Results](#results)
 7. [Background](#background)
    - [Definition Telephone Broadcasting Problem](#definition-telephone-broadcasting-problem)
    - [Definition Cyclomatic Number](#definition-cyclomatic-number)
@@ -138,8 +139,6 @@ The computed protocol will satisfy the following constraints:
 5 6
 5 7
 7 8
-
-
 ```
 
 </td>
@@ -180,8 +179,8 @@ Here is a visualization of this example graph and protocol:
 
 ### Optional Flags
 
-- `--verbose` - print detailed runtime statistics to `std::cerr`
-- `--only-rounds` - only print the number of rounds `r`, no protocol
+- `--verbose` - print runtime statistics to `std::cerr`
+- `--no-output` - the computed protocol is not printed
 
 ---
 
@@ -191,7 +190,7 @@ To generate random graphs with given parameters, run the `generate` executable f
 
 **Linux / macOS:**
 ```bash
-./build/generate <n> <k> [seed]
+./build/generate <n> <k> [seed] [--verbose]
 ```
 
 **Windows:**
@@ -202,7 +201,7 @@ build\generate.exe <n> <k> [seed] [--verbose]
 - `n` - number of vertices (`n ≥ 1`)
 - `k` - cyclomatic number (`0 ≤ k ≤ n(n - 1)/2 - n + 1`)
 - `seed` - optional integer seed (by default a random seed is used)
-- `--verbose` - optional flag for verbose output
+- `--verbose` - print runtime statistics to `std::cerr`
 
 ---
 
@@ -225,6 +224,34 @@ ctest
 ---
 
 ## Benchmark
+
+To run a benchmark of the algorithm on a randomly generated graph without saving any intermediate files, use:
+
+```bash
+./benchmark/benchmark.sh <n> <k> [seed]
+```
+
+- `n` - number of vertices (`n ≥ 1`)
+- `k` - cyclomatic number (`0 ≤ k ≤ n(n - 1)/2 - n + 1`)
+- `seed` - optional integer seed (by default a random seed is used)
+
+> **Note:** This benchmark script is supported only on **Linux** and **macOS**.
+
+### Results
+
+The following tables show execution times of the algorithm (excluding graph generation, file I/O, and protocol validation). All times are in seconds and represent averages over 10 runs on random graphs with the given parameters.
+
+#### Varying `n` with fixed `k = 5`
+
+| `n`      | 10¹  | 10²  | 10³  | 10⁴  | 10⁵   | 10⁶   | 10⁷   | 10⁸    |
+| -------- | ---- | ---- | ---- | ---- | ----- | ----- | ----- | ------ |
+| Time (s) | 0.00 | 0.00 | 1.10 | 6.85 | 20.79 | 26.67 | 44.53 | 448.50 |
+
+#### Varying `k` with fixed `n = 10⁵`
+
+| `k`      | 1    | 2    | 3    | 4    | 5    | 6     | 7      | 8         |
+| -------- | ---- | ---- | ---- | ---- | ---- | ----- | ------ | --------- |
+| Time (s) | 0.05 | 0.10 | 0.15 | 0.18 | 0.56 | 10.94 | 661.87 | 105041.80 |
 
 ---
 

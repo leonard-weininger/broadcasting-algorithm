@@ -30,8 +30,8 @@ int main(int argc, char* argv[]) {
     std::ios::sync_with_stdio(false);
     std::cin.tie(nullptr);
 
-	std::mt19937_64 rng(std::chrono::steady_clock::now().time_since_epoch().count());
-	std::uniform_int_distribution<unsigned long long> distr_seed(0, 1e18 - 1);
+    std::mt19937_64 rng(std::chrono::steady_clock::now().time_since_epoch().count());
+    std::uniform_int_distribution<unsigned long long> distr_seed(0, 1e18 - 1);
 
     int n, k;
     unsigned long long seed = distr_seed(rng);
@@ -60,20 +60,20 @@ int main(int argc, char* argv[]) {
         }
     }
 
-	if (verbose) {
-		printHeader("Generate random graph");
-		printInfo("Number of vertices", n);
-		printInfo("Cyclomatic number", k);
-		printInfo("Seed", seed);
-	}
+    if (verbose) {
+        printHeader("Generate random graph");
+        printInfo("Number of vertices", n);
+        printInfo("Cyclomatic number", k);
+        printInfo("Seed", seed);
+    }
 
     Graph g = generateRandomGraph(n, k, seed);
     printGraph(g);
 
-	if (verbose) {
+    if (verbose) {
         double totalTime = timer.elapsed();
         printInfo("Generate and print graph time", totalTime);
-	}
+    }
 
     return 0;
 }

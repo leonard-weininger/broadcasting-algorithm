@@ -45,7 +45,7 @@ for k in {0..7}; do
   for cas in {1..10}; do
     current_seed=${seeds[$seed_index]}
     ../benchmark.sh 100000 "$k" "$current_seed"
-	echo
-	seed_index=$(( seed_index + 1 ))
+    echo
+    seed_index=$(( seed_index + 1 ))
   done
 done
