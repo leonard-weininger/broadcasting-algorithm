@@ -686,7 +686,7 @@ BroadcastingProtocol algorithmCyclomatic(const Graph& g, bool verbose) {
         BroadcastingProtocol ans = solveOnTree(g);
         if (verbose) {
             double totalTime = totalTimer.elapsed();
-            printInfo("Optimal broadcasting rounds", ans.rounds.size());
+            printInfo("Optimal broadcasting rounds", static_cast<unsigned long long>(ans.rounds.size()));
             printEmptyLine();
             printInfo("Total algorithm time", totalTime);
         }
@@ -781,10 +781,10 @@ BroadcastingProtocol algorithmCyclomatic(const Graph& g, bool verbose) {
         double reconstructTime = reconstructTimer.elapsed();
         double totalTime = totalTimer.elapsed();
 
-        printInfo("Size of U", U.size());
+        printInfo("Size of U", static_cast<unsigned long long>(U.size()));
         printInfo("Spanning trees enumerated", numberOfSpanningTrees);
         printInfo("Child orderings tried", numberOfOrderings);
-        printInfo("Optimal broadcasting rounds", ans.rounds.size());
+        printInfo("Optimal broadcasting rounds", static_cast<unsigned long long>(ans.rounds.size()));
         printEmptyLine();
         printInfo("Preprocessing time", preprocessTime);
         printInfo("Search phase time", searchTime);

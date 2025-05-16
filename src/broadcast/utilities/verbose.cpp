@@ -34,11 +34,7 @@ void printInfo(const std::string& label, long long value) {
     printInfo(label, std::to_string(value));
 }
 
-/*void printInfo(const std::string& label, unsigned long long value) {
-    printInfo(label, std::to_string(value));
-}*/
-
-void printInfo(const std::string& label, size_t value) {
+void printInfo(const std::string& label, unsigned long long value) {
     printInfo(label, std::to_string(value));
 }
 

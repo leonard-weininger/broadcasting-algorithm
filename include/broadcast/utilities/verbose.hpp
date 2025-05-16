@@ -19,7 +19,6 @@ void printInfo(const std::string& label, double seconds, int precision = 4);
 void printInfo(const std::string& label, int value);
 void printInfo(const std::string& label, long long value);
 void printInfo(const std::string& label, unsigned long long value);
-void printInfo(const std::string& label, size_t value);
 void printEmptyLine();
 void printHeader(const std::string& message);
 
