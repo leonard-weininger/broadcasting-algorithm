@@ -142,7 +142,10 @@ std::vector<std::vector<int>> bruteForceAllSpanningTrees(const Graph& g) {
 
     // iterate over all subsets of n-1 edges
     std::vector<int> mask(g.edges.size(), 0);
-    std::fill(mask.end() - g.n + 1, mask.end(), 1);
+	for (int i = (int) g.edges.size() - g.n + 1; i < (int) g.edges.size(); ++i) {
+		mask[i] = 1;
+	}
+
     do {
         // check if the current subset of edges spans the whole graph using BFS
         std::vector<bool> visited(g.n, false);
