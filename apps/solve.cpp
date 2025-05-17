@@ -44,7 +44,7 @@ int main(int argc, char* argv[]) {
         double readAndVerifyTime = readAndVerifyTimer.elapsed();
         printInfo("Read and verify graph time", readAndVerifyTime);
         printInfo("Number of vertices", graph.n);
-        printInfo("Cyclomatic number", graph.edges.size() - graph.n + 1);
+        printInfo("Cyclomatic number", static_cast<unsigned long long>(graph.edges.size() - graph.n + 1));
         printEmptyLine();
     }
 

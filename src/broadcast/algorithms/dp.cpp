@@ -114,7 +114,7 @@ BroadcastingProtocol algorithmDP(const Graph& g, bool verbose) {
 
     if (verbose) {
         double totalTime = totalTimer.elapsed();
-        printInfo("Optimal broadcasting rounds", ans.rounds.size());
+        printInfo("Optimal broadcasting rounds", static_cast<unsigned long long>(ans.rounds.size()));
         printEmptyLine();
         printInfo("Total algorithm time", totalTime);
     }

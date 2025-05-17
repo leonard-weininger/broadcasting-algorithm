@@ -50,7 +50,7 @@ BroadcastingProtocol algorithmEnumerateAllTrees(const Graph& g, bool verbose) {
     if (verbose) {
         double totalTime = totalTimer.elapsed();
         printInfo("Spanning trees enumerated", numberOfSpanningTrees);
-        printInfo("Optimal broadcasting rounds", best.rounds.size());
+        printInfo("Optimal broadcasting rounds", static_cast<unsigned long long>(best.rounds.size()));
         printEmptyLine();
         printInfo("Total algorithm time", totalTime);
     }
