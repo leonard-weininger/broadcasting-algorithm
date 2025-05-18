@@ -239,7 +239,7 @@ To run a benchmark of the algorithm on a randomly generated graph and print runt
 
 ### Results
 
-The following tables show execution times of the algorithm (excluding graph generation, file I/O, and protocol validation). All times are in seconds and represent averages over 10 runs on random graphs with the given parameters.
+The following tables show execution times of the algorithm (excluding graph generation, file I/O, and protocol validation). All times are in seconds and represent averages over 10 runs on random graphs with the given parameters, where `n` is the number of vertices and `k` is the cyclomatic number.
 
 #### Varying `n` with fixed `k = 5`
 
