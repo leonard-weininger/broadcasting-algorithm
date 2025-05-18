@@ -1,6 +1,6 @@
 # Broadcasting Algorithm
 
-A C++ implementation of an algorithm for solving the telephone broadcasting problem on graphs in $O(nk) + 2^{O(k \text{ log } k)}$ time, where $n$ is the number of vertices and $k$ is the cyclomatic number. It is based on the algorithm presented in ([Fomin et al. 2024](#references)).
+A C++ implementation of an algorithm for solving the telephone broadcasting problem on graphs in $\mathcal{O}(nk) + 2^{\mathcal{O}(k \log k)}$ time, where $n$ is the number of vertices and $k$ is the cyclomatic number. It is based on the algorithm presented in ([Fomin et al. 2024](#references)).
 
 ---
 
