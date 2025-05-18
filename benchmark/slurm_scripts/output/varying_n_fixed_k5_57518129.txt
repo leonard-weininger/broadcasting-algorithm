@@ -1,0 +1,1840 @@
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................798754159619613
+[INFO] Generate and print graph time......................0.0002 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0001 seconds
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U...............................................7
+[INFO] Spanning trees enumerated.............................135
+[INFO] Child orderings tried.................................594
+[INFO] Optimal broadcasting rounds.............................5
+[INFO]
+[INFO] Preprocessing time.................................0.0000 seconds
+[INFO] Search phase time..................................0.0003 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0003 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................976982873198037
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0000 seconds
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U...............................................9
+[INFO] Spanning trees enumerated.............................351
+[INFO] Child orderings tried................................2760
+[INFO] Optimal broadcasting rounds.............................4
+[INFO]
+[INFO] Preprocessing time.................................0.0000 seconds
+[INFO] Search phase time..................................0.0008 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0008 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................500182080283633
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0000 seconds
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U...............................................8
+[INFO] Spanning trees enumerated.............................181
+[INFO] Child orderings tried................................2385
+[INFO] Optimal broadcasting rounds.............................5
+[INFO]
+[INFO] Preprocessing time.................................0.0000 seconds
+[INFO] Search phase time..................................0.0005 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0006 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................519921066995672
+[INFO] Generate and print graph time......................0.0015 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0000 seconds
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U...............................................9
+[INFO] Spanning trees enumerated.............................262
+[INFO] Child orderings tried................................2223
+[INFO] Optimal broadcasting rounds.............................5
+[INFO]
+[INFO] Preprocessing time.................................0.0000 seconds
+[INFO] Search phase time..................................0.0006 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0006 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................114876894998191
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0000 seconds
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U...............................................8
+[INFO] Spanning trees enumerated.............................223
+[INFO] Child orderings tried................................4006
+[INFO] Optimal broadcasting rounds.............................4
+[INFO]
+[INFO] Preprocessing time.................................0.0000 seconds
+[INFO] Search phase time..................................0.0007 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0007 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................926129225223330
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0000 seconds
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U...............................................9
+[INFO] Spanning trees enumerated.............................362
+[INFO] Child orderings tried................................2555
+[INFO] Optimal broadcasting rounds.............................4
+[INFO]
+[INFO] Preprocessing time.................................0.0000 seconds
+[INFO] Search phase time..................................0.0007 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0007 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................271309176436837
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0000 seconds
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U...............................................8
+[INFO] Spanning trees enumerated.............................283
+[INFO] Child orderings tried................................2032
+[INFO] Optimal broadcasting rounds.............................4
+[INFO]
+[INFO] Preprocessing time.................................0.0000 seconds
+[INFO] Search phase time..................................0.0005 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0006 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................244827511065861
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0000 seconds
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U...............................................8
+[INFO] Spanning trees enumerated.............................198
+[INFO] Child orderings tried................................2934
+[INFO] Optimal broadcasting rounds.............................4
+[INFO]
+[INFO] Preprocessing time.................................0.0000 seconds
+[INFO] Search phase time..................................0.0005 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0006 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................438870099033205
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0000 seconds
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U...............................................9
+[INFO] Spanning trees enumerated.............................358
+[INFO] Child orderings tried................................4514
+[INFO] Optimal broadcasting rounds.............................4
+[INFO]
+[INFO] Preprocessing time.................................0.0000 seconds
+[INFO] Search phase time..................................0.0008 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0008 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................406051260626173
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0000 seconds
+[INFO] Number of vertices.....................................10
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U...............................................9
+[INFO] Spanning trees enumerated.............................341
+[INFO] Child orderings tried................................6036
+[INFO] Optimal broadcasting rounds.............................4
+[INFO]
+[INFO] Preprocessing time.................................0.0000 seconds
+[INFO] Search phase time..................................0.0011 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0012 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................107625823508319
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0001 seconds
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................17
+[INFO] Spanning trees enumerated............................2581
+[INFO] Child orderings tried..............................277224
+[INFO] Optimal broadcasting rounds............................12
+[INFO]
+[INFO] Preprocessing time.................................0.0001 seconds
+[INFO] Search phase time..................................0.0409 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0411 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................583763614476574
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0001 seconds
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................12
+[INFO] Spanning trees enumerated.............................730
+[INFO] Child orderings tried..............................279036
+[INFO] Optimal broadcasting rounds............................17
+[INFO]
+[INFO] Preprocessing time.................................0.0001 seconds
+[INFO] Search phase time..................................0.0371 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0372 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................215863111929868
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0001 seconds
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................19
+[INFO] Spanning trees enumerated............................5558
+[INFO] Child orderings tried..............................524330
+[INFO] Optimal broadcasting rounds............................18
+[INFO]
+[INFO] Preprocessing time.................................0.0001 seconds
+[INFO] Search phase time..................................0.0835 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0836 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................936686272497442
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0001 seconds
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................15
+[INFO] Spanning trees enumerated............................1724
+[INFO] Child orderings tried..............................111716
+[INFO] Optimal broadcasting rounds............................17
+[INFO]
+[INFO] Preprocessing time.................................0.0001 seconds
+[INFO] Search phase time..................................0.0201 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0202 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................451588775479794
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0001 seconds
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................16
+[INFO] Spanning trees enumerated............................1908
+[INFO] Child orderings tried..............................340256
+[INFO] Optimal broadcasting rounds............................20
+[INFO]
+[INFO] Preprocessing time.................................0.0001 seconds
+[INFO] Search phase time..................................0.0623 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0625 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................716277553543636
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0001 seconds
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................19
+[INFO] Spanning trees enumerated............................2088
+[INFO] Child orderings tried..............................153325
+[INFO] Optimal broadcasting rounds............................23
+[INFO]
+[INFO] Preprocessing time.................................0.0001 seconds
+[INFO] Search phase time..................................0.0371 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0372 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................457096079137006
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0001 seconds
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................17
+[INFO] Spanning trees enumerated............................3234
+[INFO] Child orderings tried..............................395976
+[INFO] Optimal broadcasting rounds............................16
+[INFO]
+[INFO] Preprocessing time.................................0.0001 seconds
+[INFO] Search phase time..................................0.0551 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0552 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................332749827100552
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0001 seconds
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................16
+[INFO] Spanning trees enumerated............................1263
+[INFO] Child orderings tried.............................1312128
+[INFO] Optimal broadcasting rounds............................25
+[INFO]
+[INFO] Preprocessing time.................................0.0001 seconds
+[INFO] Search phase time..................................0.2403 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.2404 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................396467512381631
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0001 seconds
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................18
+[INFO] Spanning trees enumerated.............................702
+[INFO] Child orderings tried..............................133056
+[INFO] Optimal broadcasting rounds............................22
+[INFO]
+[INFO] Preprocessing time.................................0.0001 seconds
+[INFO] Search phase time..................................0.0198 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0199 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................836929266222681
+[INFO] Generate and print graph time......................0.0001 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0001 seconds
+[INFO] Number of vertices....................................100
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................18
+[INFO] Spanning trees enumerated............................3501
+[INFO] Child orderings tried..............................207508
+[INFO] Optimal broadcasting rounds............................16
+[INFO]
+[INFO] Preprocessing time.................................0.0001 seconds
+[INFO] Search phase time..................................0.0353 seconds
+[INFO] Protocol construction time.........................0.0000 seconds
+[INFO] Total algorithm time...............................0.0354 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0000 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................221290857927413
+[INFO] Generate and print graph time......................0.0004 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0002 seconds
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................17
+[INFO] Spanning trees enumerated............................4685
+[INFO] Child orderings tried.............................1493184
+[INFO] Optimal broadcasting rounds............................40
+[INFO]
+[INFO] Preprocessing time.................................0.0005 seconds
+[INFO] Search phase time..................................0.1421 seconds
+[INFO] Protocol construction time.........................0.0002 seconds
+[INFO] Total algorithm time...............................0.1427 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0001 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................130489208032426
+[INFO] Generate and print graph time......................0.0004 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0002 seconds
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................18
+[INFO] Spanning trees enumerated............................4583
+[INFO] Child orderings tried.............................1430624
+[INFO] Optimal broadcasting rounds............................53
+[INFO]
+[INFO] Preprocessing time.................................0.0005 seconds
+[INFO] Search phase time..................................0.2125 seconds
+[INFO] Protocol construction time.........................0.0001 seconds
+[INFO] Total algorithm time...............................0.2132 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0001 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................683471016510382
+[INFO] Generate and print graph time......................0.0004 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0002 seconds
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................18
+[INFO] Spanning trees enumerated............................2616
+[INFO] Child orderings tried.............................3013632
+[INFO] Optimal broadcasting rounds............................47
+[INFO]
+[INFO] Preprocessing time.................................0.0005 seconds
+[INFO] Search phase time..................................0.4049 seconds
+[INFO] Protocol construction time.........................0.0002 seconds
+[INFO] Total algorithm time...............................0.4055 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0001 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................256448446407647
+[INFO] Generate and print graph time......................0.0004 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0002 seconds
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................19
+[INFO] Spanning trees enumerated............................3566
+[INFO] Child orderings tried.............................1073504
+[INFO] Optimal broadcasting rounds............................53
+[INFO]
+[INFO] Preprocessing time.................................0.0005 seconds
+[INFO] Search phase time..................................0.1748 seconds
+[INFO] Protocol construction time.........................0.0002 seconds
+[INFO] Total algorithm time...............................0.1755 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0001 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................914092098045531
+[INFO] Generate and print graph time......................0.0004 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0002 seconds
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................19
+[INFO] Spanning trees enumerated............................6233
+[INFO] Child orderings tried.............................3473376
+[INFO] Optimal broadcasting rounds............................66
+[INFO]
+[INFO] Preprocessing time.................................0.0005 seconds
+[INFO] Search phase time..................................0.6688 seconds
+[INFO] Protocol construction time.........................0.0002 seconds
+[INFO] Total algorithm time...............................0.6695 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0001 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................626750163719274
+[INFO] Generate and print graph time......................0.0004 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0003 seconds
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................2448
+[INFO] Child orderings tried..............................863232
+[INFO] Optimal broadcasting rounds............................53
+[INFO]
+[INFO] Preprocessing time.................................0.0006 seconds
+[INFO] Search phase time..................................0.1525 seconds
+[INFO] Protocol construction time.........................0.0002 seconds
+[INFO] Total algorithm time...............................0.1532 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0001 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................336964278041800
+[INFO] Generate and print graph time......................0.0004 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0002 seconds
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................16
+[INFO] Spanning trees enumerated............................1032
+[INFO] Child orderings tried..............................506880
+[INFO] Optimal broadcasting rounds............................64
+[INFO]
+[INFO] Preprocessing time.................................0.0005 seconds
+[INFO] Search phase time..................................0.0781 seconds
+[INFO] Protocol construction time.........................0.0002 seconds
+[INFO] Total algorithm time...............................0.0787 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0001 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................577763154448393
+[INFO] Generate and print graph time......................0.0004 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0002 seconds
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................5355
+[INFO] Child orderings tried.............................2451456
+[INFO] Optimal broadcasting rounds............................49
+[INFO]
+[INFO] Preprocessing time.................................0.0005 seconds
+[INFO] Search phase time..................................0.4327 seconds
+[INFO] Protocol construction time.........................0.0002 seconds
+[INFO] Total algorithm time...............................0.4334 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0001 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................187133615300253
+[INFO] Generate and print graph time......................0.0004 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0002 seconds
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................19
+[INFO] Spanning trees enumerated............................4335
+[INFO] Child orderings tried.............................1600320
+[INFO] Optimal broadcasting rounds............................53
+[INFO]
+[INFO] Preprocessing time.................................0.0005 seconds
+[INFO] Search phase time..................................0.2888 seconds
+[INFO] Protocol construction time.........................0.0002 seconds
+[INFO] Total algorithm time...............................0.2895 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0001 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................755041876911441
+[INFO] Generate and print graph time......................0.0004 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0002 seconds
+[INFO] Number of vertices...................................1000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................17
+[INFO] Spanning trees enumerated............................4420
+[INFO] Child orderings tried.............................1681408
+[INFO] Optimal broadcasting rounds............................39
+[INFO]
+[INFO] Preprocessing time.................................0.0005 seconds
+[INFO] Search phase time..................................0.2188 seconds
+[INFO] Protocol construction time.........................0.0002 seconds
+[INFO] Total algorithm time...............................0.2194 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0001 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................696911403669911
+[INFO] Generate and print graph time......................0.0030 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0023 seconds
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................7948
+[INFO] Child orderings tried.............................4069376
+[INFO] Optimal broadcasting rounds...........................145
+[INFO]
+[INFO] Preprocessing time.................................0.0041 seconds
+[INFO] Search phase time..................................0.6746 seconds
+[INFO] Protocol construction time.........................0.0016 seconds
+[INFO] Total algorithm time...............................0.6802 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0009 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................230557942082744
+[INFO] Generate and print graph time......................0.0030 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0023 seconds
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................4976
+[INFO] Child orderings tried.............................2547712
+[INFO] Optimal broadcasting rounds...........................142
+[INFO]
+[INFO] Preprocessing time.................................0.0040 seconds
+[INFO] Search phase time..................................0.3582 seconds
+[INFO] Protocol construction time.........................0.0016 seconds
+[INFO] Total algorithm time...............................0.3639 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0008 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................385447481462045
+[INFO] Generate and print graph time......................0.0030 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0023 seconds
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................19
+[INFO] Spanning trees enumerated............................4790
+[INFO] Child orderings tried.............................3678720
+[INFO] Optimal broadcasting rounds...........................175
+[INFO]
+[INFO] Preprocessing time.................................0.0040 seconds
+[INFO] Search phase time..................................0.6090 seconds
+[INFO] Protocol construction time.........................0.0016 seconds
+[INFO] Total algorithm time...............................0.6146 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0009 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................331518465375272
+[INFO] Generate and print graph time......................0.0030 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0023 seconds
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................6552
+[INFO] Child orderings tried.............................3354624
+[INFO] Optimal broadcasting rounds...........................188
+[INFO]
+[INFO] Preprocessing time.................................0.0041 seconds
+[INFO] Search phase time..................................0.6925 seconds
+[INFO] Protocol construction time.........................0.0016 seconds
+[INFO] Total algorithm time...............................0.6982 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0009 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................643079146168270
+[INFO] Generate and print graph time......................0.0030 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0023 seconds
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................1431
+[INFO] Child orderings tried..............................732672
+[INFO] Optimal broadcasting rounds...........................211
+[INFO]
+[INFO] Preprocessing time.................................0.0041 seconds
+[INFO] Search phase time..................................0.1457 seconds
+[INFO] Protocol construction time.........................0.0016 seconds
+[INFO] Total algorithm time...............................0.1514 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0009 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................480437652963729
+[INFO] Generate and print graph time......................0.0030 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0023 seconds
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................18
+[INFO] Spanning trees enumerated............................1401
+[INFO] Child orderings tried..............................923904
+[INFO] Optimal broadcasting rounds...........................250
+[INFO]
+[INFO] Preprocessing time.................................0.0041 seconds
+[INFO] Search phase time..................................0.2085 seconds
+[INFO] Protocol construction time.........................0.0016 seconds
+[INFO] Total algorithm time...............................0.2142 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0009 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................906429077516738
+[INFO] Generate and print graph time......................0.0030 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0023 seconds
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................19
+[INFO] Spanning trees enumerated............................2202
+[INFO] Child orderings tried..............................912384
+[INFO] Optimal broadcasting rounds...........................234
+[INFO]
+[INFO] Preprocessing time.................................0.0041 seconds
+[INFO] Search phase time..................................0.1872 seconds
+[INFO] Protocol construction time.........................0.0016 seconds
+[INFO] Total algorithm time...............................0.1930 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0009 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................547373878319123
+[INFO] Generate and print graph time......................0.0030 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0023 seconds
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................7341
+[INFO] Child orderings tried.............................2958720
+[INFO] Optimal broadcasting rounds...........................170
+[INFO]
+[INFO] Preprocessing time.................................0.0040 seconds
+[INFO] Search phase time..................................0.5023 seconds
+[INFO] Protocol construction time.........................0.0016 seconds
+[INFO] Total algorithm time...............................0.5079 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0008 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................584414494764488
+[INFO] Generate and print graph time......................0.0030 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0023 seconds
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................1116
+[INFO] Child orderings tried..............................571392
+[INFO] Optimal broadcasting rounds...........................183
+[INFO]
+[INFO] Preprocessing time.................................0.0041 seconds
+[INFO] Search phase time..................................0.1329 seconds
+[INFO] Protocol construction time.........................0.0016 seconds
+[INFO] Total algorithm time...............................0.1386 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0009 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................535220429548113
+[INFO] Generate and print graph time......................0.0030 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0023 seconds
+[INFO] Number of vertices..................................10000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................2007
+[INFO] Child orderings tried.............................1027584
+[INFO] Optimal broadcasting rounds...........................254
+[INFO]
+[INFO] Preprocessing time.................................0.0042 seconds
+[INFO] Search phase time..................................0.1612 seconds
+[INFO] Protocol construction time.........................0.0016 seconds
+[INFO] Total algorithm time...............................0.1670 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0009 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................645931043392048
+[INFO] Generate and print graph time......................0.0337 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0309 seconds
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................6873
+[INFO] Child orderings tried.............................3518976
+[INFO] Optimal broadcasting rounds...........................549
+[INFO]
+[INFO] Preprocessing time.................................0.0829 seconds
+[INFO] Search phase time..................................0.6059 seconds
+[INFO] Protocol construction time.........................0.0250 seconds
+[INFO] Total algorithm time...............................0.7139 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0125 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................500670178288677
+[INFO] Generate and print graph time......................0.0342 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0293 seconds
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................4039
+[INFO] Child orderings tried.............................2067968
+[INFO] Optimal broadcasting rounds...........................614
+[INFO]
+[INFO] Preprocessing time.................................0.0852 seconds
+[INFO] Search phase time..................................0.3962 seconds
+[INFO] Protocol construction time.........................0.0314 seconds
+[INFO] Total algorithm time...............................0.5128 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0122 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................856349396066955
+[INFO] Generate and print graph time......................0.0367 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0309 seconds
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................5769
+[INFO] Child orderings tried.............................2953728
+[INFO] Optimal broadcasting rounds...........................806
+[INFO]
+[INFO] Preprocessing time.................................0.0746 seconds
+[INFO] Search phase time..................................0.6180 seconds
+[INFO] Protocol construction time.........................0.0319 seconds
+[INFO] Total algorithm time...............................0.7245 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0121 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................164071909751401
+[INFO] Generate and print graph time......................0.0371 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0307 seconds
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................6520
+[INFO] Child orderings tried.............................3338240
+[INFO] Optimal broadcasting rounds...........................444
+[INFO]
+[INFO] Preprocessing time.................................0.0746 seconds
+[INFO] Search phase time..................................0.5586 seconds
+[INFO] Protocol construction time.........................0.0316 seconds
+[INFO] Total algorithm time...............................0.6648 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0123 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................853722393610897
+[INFO] Generate and print graph time......................0.0357 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0278 seconds
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................3915
+[INFO] Child orderings tried.............................2004480
+[INFO] Optimal broadcasting rounds...........................625
+[INFO]
+[INFO] Preprocessing time.................................0.0817 seconds
+[INFO] Search phase time..................................0.4063 seconds
+[INFO] Protocol construction time.........................0.0317 seconds
+[INFO] Total algorithm time...............................0.5197 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0125 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................879636034117850
+[INFO] Generate and print graph time......................0.0342 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0282 seconds
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................4464
+[INFO] Child orderings tried.............................1763328
+[INFO] Optimal broadcasting rounds...........................823
+[INFO]
+[INFO] Preprocessing time.................................0.0705 seconds
+[INFO] Search phase time..................................0.4260 seconds
+[INFO] Protocol construction time.........................0.0369 seconds
+[INFO] Total algorithm time...............................0.5335 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0131 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................397712093011421
+[INFO] Generate and print graph time......................0.0354 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0290 seconds
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................7755
+[INFO] Child orderings tried.............................3970560
+[INFO] Optimal broadcasting rounds...........................625
+[INFO]
+[INFO] Preprocessing time.................................0.0718 seconds
+[INFO] Search phase time..................................0.8241 seconds
+[INFO] Protocol construction time.........................0.0253 seconds
+[INFO] Total algorithm time...............................0.9211 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0123 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................119297058427094
+[INFO] Generate and print graph time......................0.0367 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0300 seconds
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................4711
+[INFO] Child orderings tried.............................2412032
+[INFO] Optimal broadcasting rounds...........................642
+[INFO]
+[INFO] Preprocessing time.................................0.0731 seconds
+[INFO] Search phase time..................................0.4380 seconds
+[INFO] Protocol construction time.........................0.0361 seconds
+[INFO] Total algorithm time...............................0.5471 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0133 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................421596957616753
+[INFO] Generate and print graph time......................0.0358 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0285 seconds
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................5976
+[INFO] Child orderings tried.............................3059712
+[INFO] Optimal broadcasting rounds...........................700
+[INFO]
+[INFO] Preprocessing time.................................0.0716 seconds
+[INFO] Search phase time..................................0.6477 seconds
+[INFO] Protocol construction time.........................0.0359 seconds
+[INFO] Total algorithm time...............................0.7552 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0127 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................248469635812081
+[INFO] Generate and print graph time......................0.0354 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.0283 seconds
+[INFO] Number of vertices.................................100000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................2850
+[INFO] Child orderings tried.............................1459200
+[INFO] Optimal broadcasting rounds...........................526
+[INFO]
+[INFO] Preprocessing time.................................0.0687 seconds
+[INFO] Search phase time..................................0.3075 seconds
+[INFO] Protocol construction time.........................0.0362 seconds
+[INFO] Total algorithm time...............................0.4125 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.0131 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................165483525678407
+[INFO] Generate and print graph time......................0.7217 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.6651 seconds
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................19
+[INFO] Spanning trees enumerated............................2157
+[INFO] Child orderings tried.............................1656576
+[INFO] Optimal broadcasting rounds..........................1967
+[INFO]
+[INFO] Preprocessing time.................................1.6706 seconds
+[INFO] Search phase time..................................0.3558 seconds
+[INFO] Protocol construction time.........................0.7106 seconds
+[INFO] Total algorithm time...............................2.7371 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.4557 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................818706974920563
+[INFO] Generate and print graph time......................0.7191 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.6692 seconds
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................2943
+[INFO] Child orderings tried.............................1506816
+[INFO] Optimal broadcasting rounds..........................1804
+[INFO]
+[INFO] Preprocessing time.................................1.6690 seconds
+[INFO] Search phase time..................................0.1970 seconds
+[INFO] Protocol construction time.........................0.7156 seconds
+[INFO] Total algorithm time...............................2.5816 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.4472 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................765801446122590
+[INFO] Generate and print graph time......................0.7151 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.6557 seconds
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................7299
+[INFO] Child orderings tried.............................3737088
+[INFO] Optimal broadcasting rounds..........................1524
+[INFO]
+[INFO] Preprocessing time.................................1.6752 seconds
+[INFO] Search phase time..................................0.7108 seconds
+[INFO] Protocol construction time.........................0.7053 seconds
+[INFO] Total algorithm time...............................3.0914 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.4570 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................856065105673616
+[INFO] Generate and print graph time......................0.7164 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.6506 seconds
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................2205
+[INFO] Child orderings tried.............................1128960
+[INFO] Optimal broadcasting rounds..........................2522
+[INFO]
+[INFO] Preprocessing time.................................1.6725 seconds
+[INFO] Search phase time..................................0.2414 seconds
+[INFO] Protocol construction time.........................0.7263 seconds
+[INFO] Total algorithm time...............................2.6402 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.4728 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................569764285218870
+[INFO] Generate and print graph time......................0.7223 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.6367 seconds
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................7731
+[INFO] Child orderings tried.............................3958272
+[INFO] Optimal broadcasting rounds..........................2198
+[INFO]
+[INFO] Preprocessing time.................................1.6958 seconds
+[INFO] Search phase time..................................0.8395 seconds
+[INFO] Protocol construction time.........................0.7040 seconds
+[INFO] Total algorithm time...............................3.2393 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.4682 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................367121315057694
+[INFO] Generate and print graph time......................0.7182 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.6634 seconds
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................7668
+[INFO] Child orderings tried.............................3926016
+[INFO] Optimal broadcasting rounds..........................2170
+[INFO]
+[INFO] Preprocessing time.................................1.6925 seconds
+[INFO] Search phase time..................................0.6614 seconds
+[INFO] Protocol construction time.........................0.7105 seconds
+[INFO] Total algorithm time...............................3.0643 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.4566 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................539508063845705
+[INFO] Generate and print graph time......................0.7195 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.6650 seconds
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................5635
+[INFO] Child orderings tried.............................2885120
+[INFO] Optimal broadcasting rounds..........................1930
+[INFO]
+[INFO] Preprocessing time.................................1.6668 seconds
+[INFO] Search phase time..................................0.4301 seconds
+[INFO] Protocol construction time.........................0.7106 seconds
+[INFO] Total algorithm time...............................2.8075 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.4559 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................722786602927814
+[INFO] Generate and print graph time......................0.7190 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.6648 seconds
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................7467
+[INFO] Child orderings tried.............................3823104
+[INFO] Optimal broadcasting rounds..........................1972
+[INFO]
+[INFO] Preprocessing time.................................1.6781 seconds
+[INFO] Search phase time..................................0.6534 seconds
+[INFO] Protocol construction time.........................0.7177 seconds
+[INFO] Total algorithm time...............................3.0491 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.4397 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................147464473591981
+[INFO] Generate and print graph time......................0.7221 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.6608 seconds
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................4704
+[INFO] Child orderings tried.............................2408448
+[INFO] Optimal broadcasting rounds..........................1987
+[INFO]
+[INFO] Preprocessing time.................................1.6849 seconds
+[INFO] Search phase time..................................0.3964 seconds
+[INFO] Protocol construction time.........................0.7221 seconds
+[INFO] Total algorithm time...............................2.8034 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.4597 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................892194005965885
+[INFO] Generate and print graph time......................0.7242 seconds
+[INFO]
+[INFO] Read and verify graph time.........................0.6593 seconds
+[INFO] Number of vertices................................1000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................7675
+[INFO] Child orderings tried.............................3929600
+[INFO] Optimal broadcasting rounds..........................1645
+[INFO]
+[INFO] Preprocessing time.................................1.6950 seconds
+[INFO] Search phase time..................................0.6107 seconds
+[INFO] Protocol construction time.........................0.7084 seconds
+[INFO] Total algorithm time...............................3.0141 seconds
+[INFO]
+[INFO] Validate protocol time.............................0.4737 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................719466674191011
+[INFO] Generate and print graph time.....................11.6913 seconds
+[INFO]
+[INFO] Read and verify graph time.........................7.5977 seconds
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................5193
+[INFO] Child orderings tried.............................2658816
+[INFO] Optimal broadcasting rounds..........................6212
+[INFO]
+[INFO] Preprocessing time................................21.5358 seconds
+[INFO] Search phase time..................................0.5339 seconds
+[INFO] Protocol construction time.........................8.8894 seconds
+[INFO] Total algorithm time..............................30.9591 seconds
+[INFO]
+[INFO] Validate protocol time.............................5.9680 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................942815320433805
+[INFO] Generate and print graph time.....................11.6946 seconds
+[INFO]
+[INFO] Read and verify graph time.........................7.6232 seconds
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................4126
+[INFO] Child orderings tried.............................2112512
+[INFO] Optimal broadcasting rounds..........................5744
+[INFO]
+[INFO] Preprocessing time................................21.6367 seconds
+[INFO] Search phase time..................................0.3776 seconds
+[INFO] Protocol construction time.........................9.2695 seconds
+[INFO] Total algorithm time..............................31.2838 seconds
+[INFO]
+[INFO] Validate protocol time.............................6.0261 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................729771239468707
+[INFO] Generate and print graph time.....................11.7010 seconds
+[INFO]
+[INFO] Read and verify graph time.........................7.6190 seconds
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................7119
+[INFO] Child orderings tried.............................3644928
+[INFO] Optimal broadcasting rounds..........................5378
+[INFO]
+[INFO] Preprocessing time................................21.6417 seconds
+[INFO] Search phase time..................................0.6318 seconds
+[INFO] Protocol construction time.........................8.9095 seconds
+[INFO] Total algorithm time..............................31.1829 seconds
+[INFO]
+[INFO] Validate protocol time.............................5.9757 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................874863195348205
+[INFO] Generate and print graph time.....................11.6908 seconds
+[INFO]
+[INFO] Read and verify graph time.........................7.6056 seconds
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................3864
+[INFO] Child orderings tried.............................1978368
+[INFO] Optimal broadcasting rounds..........................4705
+[INFO]
+[INFO] Preprocessing time................................21.5691 seconds
+[INFO] Search phase time..................................0.3146 seconds
+[INFO] Protocol construction time.........................8.9254 seconds
+[INFO] Total algorithm time..............................30.8091 seconds
+[INFO]
+[INFO] Validate protocol time.............................5.9603 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................730668029899472
+[INFO] Generate and print graph time.....................11.5527 seconds
+[INFO]
+[INFO] Read and verify graph time.........................7.3878 seconds
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................4366
+[INFO] Child orderings tried.............................2235392
+[INFO] Optimal broadcasting rounds..........................5984
+[INFO]
+[INFO] Preprocessing time................................20.9594 seconds
+[INFO] Search phase time..................................0.5173 seconds
+[INFO] Protocol construction time.........................8.8600 seconds
+[INFO] Total algorithm time..............................30.3368 seconds
+[INFO]
+[INFO] Validate protocol time.............................6.0092 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................858226385144177
+[INFO] Generate and print graph time.....................11.6229 seconds
+[INFO]
+[INFO] Read and verify graph time.........................7.5860 seconds
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................5010
+[INFO] Child orderings tried.............................2565120
+[INFO] Optimal broadcasting rounds..........................5752
+[INFO]
+[INFO] Preprocessing time................................21.3818 seconds
+[INFO] Search phase time..................................0.4871 seconds
+[INFO] Protocol construction time.........................8.8524 seconds
+[INFO] Total algorithm time..............................30.7213 seconds
+[INFO]
+[INFO] Validate protocol time.............................6.0275 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................900283117477251
+[INFO] Generate and print graph time.....................11.5609 seconds
+[INFO]
+[INFO] Read and verify graph time.........................7.5784 seconds
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................5418
+[INFO] Child orderings tried.............................2774016
+[INFO] Optimal broadcasting rounds..........................5568
+[INFO]
+[INFO] Preprocessing time................................21.3699 seconds
+[INFO] Search phase time..................................0.4977 seconds
+[INFO] Protocol construction time.........................8.8411 seconds
+[INFO] Total algorithm time..............................30.7087 seconds
+[INFO]
+[INFO] Validate protocol time.............................5.9768 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................529392748551922
+[INFO] Generate and print graph time.....................11.5710 seconds
+[INFO]
+[INFO] Read and verify graph time.........................7.6106 seconds
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................5284
+[INFO] Child orderings tried.............................2705408
+[INFO] Optimal broadcasting rounds..........................4895
+[INFO]
+[INFO] Preprocessing time................................21.5458 seconds
+[INFO] Search phase time..................................0.5014 seconds
+[INFO] Protocol construction time.........................8.8770 seconds
+[INFO] Total algorithm time..............................30.9242 seconds
+[INFO]
+[INFO] Validate protocol time.............................5.9636 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................544232942690131
+[INFO] Generate and print graph time.....................11.6759 seconds
+[INFO]
+[INFO] Read and verify graph time.........................8.7465 seconds
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................5346
+[INFO] Child orderings tried.............................2737152
+[INFO] Optimal broadcasting rounds..........................6187
+[INFO]
+[INFO] Preprocessing time................................21.5674 seconds
+[INFO] Search phase time..................................0.5387 seconds
+[INFO] Protocol construction time.........................9.2872 seconds
+[INFO] Total algorithm time..............................31.3933 seconds
+[INFO]
+[INFO] Validate protocol time.............................7.1571 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................355035420434264
+[INFO] Generate and print graph time.....................11.6981 seconds
+[INFO]
+[INFO] Read and verify graph time.........................7.6208 seconds
+[INFO] Number of vertices...............................10000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................7945
+[INFO] Child orderings tried.............................4067840
+[INFO] Optimal broadcasting rounds..........................5545
+[INFO]
+[INFO] Preprocessing time................................21.6107 seconds
+[INFO] Search phase time..................................0.6845 seconds
+[INFO] Protocol construction time.........................8.8892 seconds
+[INFO] Total algorithm time..............................31.1845 seconds
+[INFO]
+[INFO] Validate protocol time.............................5.9970 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................281828077165019
+[INFO] Generate and print graph time....................175.7118 seconds
+[INFO]
+[INFO] Read and verify graph time........................97.5020 seconds
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................6030
+[INFO] Child orderings tried.............................3087360
+[INFO] Optimal broadcasting rounds.........................18044
+[INFO]
+[INFO] Preprocessing time...............................275.3793 seconds
+[INFO] Search phase time..................................0.7737 seconds
+[INFO] Protocol construction time.......................114.1012 seconds
+[INFO] Total algorithm time.............................390.2542 seconds
+[INFO]
+[INFO] Validate protocol time............................84.9343 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................996558237668224
+[INFO] Generate and print graph time....................177.8119 seconds
+[INFO]
+[INFO] Read and verify graph time........................97.3906 seconds
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................5172
+[INFO] Child orderings tried.............................2648064
+[INFO] Optimal broadcasting rounds.........................18869
+[INFO]
+[INFO] Preprocessing time...............................281.9059 seconds
+[INFO] Search phase time..................................0.7981 seconds
+[INFO] Protocol construction time.......................114.7906 seconds
+[INFO] Total algorithm time.............................397.4945 seconds
+[INFO]
+[INFO] Validate protocol time............................86.0407 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................189046820793944
+[INFO] Generate and print graph time....................177.8264 seconds
+[INFO]
+[INFO] Read and verify graph time........................97.6760 seconds
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................5919
+[INFO] Child orderings tried.............................3030528
+[INFO] Optimal broadcasting rounds.........................16200
+[INFO]
+[INFO] Preprocessing time...............................282.7086 seconds
+[INFO] Search phase time..................................0.7493 seconds
+[INFO] Protocol construction time.......................114.9057 seconds
+[INFO] Total algorithm time.............................398.3637 seconds
+[INFO]
+[INFO] Validate protocol time............................83.3369 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................583676877814634
+[INFO] Generate and print graph time....................175.6680 seconds
+[INFO]
+[INFO] Read and verify graph time........................97.4018 seconds
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................3195
+[INFO] Child orderings tried.............................1635840
+[INFO] Optimal broadcasting rounds.........................17328
+[INFO]
+[INFO] Preprocessing time...............................282.3714 seconds
+[INFO] Search phase time..................................0.5820 seconds
+[INFO] Protocol construction time.......................114.7594 seconds
+[INFO] Total algorithm time.............................397.7128 seconds
+[INFO]
+[INFO] Validate protocol time............................85.7294 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................890531046803454
+[INFO] Generate and print graph time....................178.2807 seconds
+[INFO]
+[INFO] Read and verify graph time........................97.6997 seconds
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................7319
+[INFO] Child orderings tried.............................3747328
+[INFO] Optimal broadcasting rounds.........................17107
+[INFO]
+[INFO] Preprocessing time...............................282.7477 seconds
+[INFO] Search phase time..................................0.9604 seconds
+[INFO] Protocol construction time.......................124.3061 seconds
+[INFO] Total algorithm time.............................408.0141 seconds
+[INFO]
+[INFO] Validate protocol time............................83.1497 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................771264057267191
+[INFO] Generate and print graph time....................177.7989 seconds
+[INFO]
+[INFO] Read and verify graph time........................97.4782 seconds
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................7445
+[INFO] Child orderings tried.............................3811840
+[INFO] Optimal broadcasting rounds.........................25901
+[INFO]
+[INFO] Preprocessing time...............................282.5533 seconds
+[INFO] Search phase time..................................1.0559 seconds
+[INFO] Protocol construction time.......................114.6429 seconds
+[INFO] Total algorithm time.............................398.2522 seconds
+[INFO]
+[INFO] Validate protocol time............................81.3546 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................609005840048882
+[INFO] Generate and print graph time....................175.4126 seconds
+[INFO]
+[INFO] Read and verify graph time........................97.1093 seconds
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................8284
+[INFO] Child orderings tried.............................4241408
+[INFO] Optimal broadcasting rounds.........................13762
+[INFO]
+[INFO] Preprocessing time...............................282.2609 seconds
+[INFO] Search phase time..................................0.9245 seconds
+[INFO] Protocol construction time.......................123.4282 seconds
+[INFO] Total algorithm time.............................406.6136 seconds
+[INFO]
+[INFO] Validate protocol time............................83.6347 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................696793349542224
+[INFO] Generate and print graph time....................177.0792 seconds
+[INFO]
+[INFO] Read and verify graph time........................95.2900 seconds
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................6226
+[INFO] Child orderings tried.............................3187712
+[INFO] Optimal broadcasting rounds.........................19020
+[INFO]
+[INFO] Preprocessing time...............................281.5338 seconds
+[INFO] Search phase time..................................0.8883 seconds
+[INFO] Protocol construction time.......................114.8414 seconds
+[INFO] Total algorithm time.............................397.2635 seconds
+[INFO]
+[INFO] Validate protocol time............................82.8597 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................114763041395653
+[INFO] Generate and print graph time....................177.9781 seconds
+[INFO]
+[INFO] Read and verify graph time........................97.6038 seconds
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................1992
+[INFO] Child orderings tried.............................1019904
+[INFO] Optimal broadcasting rounds.........................16317
+[INFO]
+[INFO] Preprocessing time...............................282.5365 seconds
+[INFO] Search phase time..................................0.4575 seconds
+[INFO] Protocol construction time.......................114.8063 seconds
+[INFO] Total algorithm time.............................397.8003 seconds
+[INFO]
+[INFO] Validate protocol time............................86.2378 seconds
+
+[INFO] Generate random graph....................................
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO] Seed......................................624034557844738
+[INFO] Generate and print graph time....................177.9716 seconds
+[INFO]
+[INFO] Read and verify graph time........................97.4573 seconds
+[INFO] Number of vertices..............................100000000
+[INFO] Cyclomatic number.......................................5
+[INFO]
+[INFO] Running the cyclomatic broadcasting algorithm............
+[INFO] Size of U..............................................20
+[INFO] Spanning trees enumerated............................6323
+[INFO] Child orderings tried.............................3237376
+[INFO] Optimal broadcasting rounds.........................22368
+[INFO]
+[INFO] Preprocessing time...............................282.6594 seconds
+[INFO] Search phase time..................................0.9547 seconds
+[INFO] Protocol construction time.......................113.6210 seconds
+[INFO] Total algorithm time.............................397.2351 seconds
+[INFO]
+[INFO] Validate protocol time............................82.9579 seconds
+
